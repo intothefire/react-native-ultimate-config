@@ -11,19 +11,15 @@
   },
   "dependencies": {
     "react": "16.11.0",
-    "react-native": "0.62.2"
-  },
-  "resolutions": {
-    "logkitty": "^0.7.1",
-    "lodash": "^4.17.19"
+    "react-native": "^0.63"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/runtime": "^7.9.2",
-    "@react-native-community/eslint-config": "^1.1.0",
-    "babel-jest": "^25.4.0",
-    "eslint": "^6.8.0",
-    "jest": "^25.4.0",
+    "@babel/core": "^7",
+    "@babel/runtime": "^7",
+    "@react-native-community/eslint-config": "^1",
+    "babel-jest": "^25",
+    "eslint": "^6",
+    "jest": "^25",
     "metro-react-native-babel-preset": "^0.59.0",
     "react-test-renderer": "16.11.0"
   },
